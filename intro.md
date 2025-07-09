@@ -17,7 +17,8 @@ Indícanos cualquier duda, sugerencia o incidencia, o inicia una discusión con 
 
 ## Organización del contenido
 
-- El contenido de cada **SESIÓN** está desarrollado a través de <font color='red'>**encuentros síncronicos*</font>. Se trabaja sobre <font color="red">**Notebooks de Jupyter**</font>, en Python, ejecutables directamente sobre Google Colab.
+El contenido de cada **SESIÓN** está desarrollado a través de <font color='red'>**encuentros síncronicos**</font>. Se trabaja sobre <font color="red">**Notebooks de Jupyter**</font>, en Python, ejecutables directamente sobre Google Colab.
+
 
 | Sesión | Título                                                | Temáticas                                                                                  |
 |--------|--------------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -29,12 +30,12 @@ Indícanos cualquier duda, sugerencia o incidencia, o inicia una discusión con 
 | 6      | Aplicaciones Prácticas y Casos de Estudio              | 1. Análisis de casos reales de toma de decisiones basadas en datos. <br> 2. Inteligencia artificial y su impacto en la toma de decisiones. <br> 3. Automatización de decisiones: riesgos y oportunidades. <br> 4. Tendencias emergentes en ciencia de datos para decisiones. |
 
 ## Sesiones sincrónicas (Modalidad Virtual)
-Para acceder a las sesiones sincrónicas será por la plataforma ZOOM, los lunes 19:00 - 21:00 HRS de Chile.
+Para acceder a las sesiones sincrónicas será por la **plataforma ZOOM**, los lunes 19:00 - 21:00 HRS de Chile.
 Las fechas de las sesiones son:
 - Julio: 7, 14, 21 y 28
 - Agosto: 4 y 11
 
-Link de acceso: https://unab-cl.zoom.us/j/82072045530
+**Link de acceso:** https://unab-cl.zoom.us/j/82072045530
 
 ----
 
