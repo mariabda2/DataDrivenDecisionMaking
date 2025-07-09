@@ -2,6 +2,8 @@
 
 Bienvenid@s al curso de **Toma de Decisiones Basadas en Datos**. Este es un <big><font color='red'>**CURSO**</font></big>, ofrecido en la  **Universidad de Andrés Bello**, en Chile.
 
+En un entorno donde la disponibilidad de información es creciente y la incertidumbre desafía constantemente a las organizaciones, la capacidad de tomar decisiones informadas se ha convertido en una competencia estratégica clave. Este curso ofrece una introducción al enfoque de toma de decisiones basada en datos (data-driven decision making), combinando fundamentos teóricos con herramientas prácticas para recolectar, analizar y utilizar datos en distintos niveles de gestión. A lo largo de las sesiones, los estudiantes explorarán cómo transformar datos en conocimiento útil para decisiones operativas, tácticas y estratégicas, enfrentando también los retos éticos, técnicos y organizacionales asociados al uso intensivo de información en la era digital.
+
 ## Discusiones, Q&A, incidencias
 
 Indícanos cualquier duda, sugerencia o incidencia, o inicia una discusión con la comunidad del curso en el siguiente foro. Las discusiones son en abierto. Si quieres participar tendrás que utilizar tu usuario GitHub.
