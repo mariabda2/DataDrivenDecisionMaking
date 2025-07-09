@@ -1,2 +1,3 @@
-# DataDrivenDecisionMaking
-Clases Co-Docencia Internacional: Toma de Decisiones Basadas en Datos Universidad Andrés Bello, Chile
+# Toma de Decisiones basados en Datos
+Clases Co-Docencia Internacional
+Universidad Andrés Bello, Chile
