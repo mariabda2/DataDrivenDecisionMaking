@@ -1,6 +1,6 @@
 # Información del curso 
 
-Bienvenid@s al curso de **Toma de Decisiones Basadas en Datos**. Este es un <big><font color='red'>**CURSO**</font></big>, ofrecido en la  **Universidad de Andrés Bello**, en Chile.
+Bienvenid@s al curso de **Toma de Decisiones Basadas en Datos**. Este es un <big><font color='red'>**CURSO**</font></big>, ofrecido en la  **Universidad de Andrés Bello**, Chile.
 
 En un entorno donde la disponibilidad de información es creciente y la incertidumbre desafía constantemente a las organizaciones, la capacidad de tomar decisiones informadas se ha convertido en una competencia estratégica clave. Este curso ofrece una introducción al enfoque de toma de decisiones basada en datos (data-driven decision making), combinando fundamentos teóricos con herramientas prácticas para recolectar, analizar y utilizar datos en distintos niveles de gestión. A lo largo de las sesiones, los estudiantes explorarán cómo transformar datos en conocimiento útil para decisiones operativas, tácticas y estratégicas, enfrentando también los retos éticos, técnicos y organizacionales asociados al uso intensivo de información en la era digital.
 
@@ -32,7 +32,7 @@ El contenido de cada **SESIÓN** está desarrollado a través de <font color='re
 | 6      | Aplicaciones Prácticas y Casos de Estudio              | 1. Análisis de casos reales de toma de decisiones basadas en datos. <br> 2. Inteligencia artificial y su impacto en la toma de decisiones. <br> 3. Automatización de decisiones: riesgos y oportunidades. <br> 4. Tendencias emergentes en ciencia de datos para decisiones. |
 
 ## Sesiones sincrónicas (Modalidad Virtual)
-Para acceder a las sesiones sincrónicas será por la **plataforma ZOOM**, los lunes 19:00 - 21:00 HRS de Chile.
+Para acceder a las sesiones sincrónicas es por la **plataforma ZOOM**, los lunes 19:00 - 21:00 HRS de Chile.
 Las fechas de las sesiones son:
 - Julio: 7, 14, 21 y 28
 - Agosto: 4 y 11
